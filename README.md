@@ -7,5 +7,3 @@ This version also introduces a systematic comparison between the MCM interpretat
 Furthermore, DM_V03_EN expands the cosmological implications of residual vortex dynamics. The document now includes a more detailed account of how tension sinks shape galactic halos, influence photon‑vortex trajectories, and contribute to the formation of cosmic filaments and voids. The statistical stability of the residual‑vortex background field is described more rigorously, showing how continuous vortex generation maintains a persistent dark‑matter‑like effect over cosmic timescales.
 
 In summary, DM_V03_EN supersedes DM_V02_EN by offering a more complete, consistent, and geometrically unified interpretation of dark matter within the Monistic Continuum Model. It strengthens the ontological foundation of the theory and integrates all major cosmological observations into a single continuum‑based framework.
-
-MCM – Master Document (10.5281/zenodo.22128163) 
